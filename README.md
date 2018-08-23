@@ -10,7 +10,7 @@ Demo:
 1. First dump the Arduino sketch into the Arduino and note down the port number.
 1. Load the Processing's Sketch and edit the port number to enable the communication between Arduino and Processing.
 1. Connect the circuit from the given circuit diagram.
-![circuit](img/circuit.jpeg)
+![circuit](img/circuit1.jpeg)
 1. start the arduino and enjoy.
 
 Feel Free to give me feedback.
