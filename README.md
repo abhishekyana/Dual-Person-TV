@@ -6,6 +6,7 @@ Components Used:
 1. 10K Resistors 2X
 
 Demo:
+1. CLone the Repository """git clone https://github.com/abhishekyana/dual_person_tv""""
 1. First dump the Arduino sketch into the Arduino and note down the port number.
 1. Load the Processing's Sketch and edit the port number to enable the communication between Arduino and Processing.
 1. Connect the circuit from the given circuit diagram.
