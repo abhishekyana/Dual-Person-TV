@@ -9,8 +9,8 @@ Demo:
 1. Clone the Repository `git clone https://github.com/abhishekyana/dual_person_tv`
 1. First dump the Arduino sketch into the Arduino and note down the port number.
 1. Load the Processing's Sketch and edit the port number to enable the communication between Arduino and Processing.
-1. Connect the circuit from the given circuit diagram.
-![circuit](img/circuit.jpeg)
+1. Connect the circuit from the given schematic diagram.
+![circuit](img/circuit2.jpeg)
 1. start the arduino and enjoy.
 
 Feel Free to give me feedback.
