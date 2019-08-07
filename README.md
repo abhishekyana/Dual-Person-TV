@@ -1,4 +1,4 @@
-# dual_person_tv
+# Dual Person Television
 A proof of concept for Dual Person TV, This enables 2 persons to watch 2 different content at the same time on the same screen.
 Components Used:
 1. Arduino Uno
